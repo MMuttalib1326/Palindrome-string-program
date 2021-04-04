@@ -1,6 +1,7 @@
 # Palindrome-string-program
 Python Programming
 
+
 string=input(("Enter a letter:"))  
 if(string==string[::-1]):  
       print("The letter is a palindrome")  
